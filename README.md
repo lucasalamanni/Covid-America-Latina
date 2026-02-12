@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="Informe%20m4/Incidencia.png" width="900">
+</p>
+
+<h1 align="center">📊 COVID-19 en América Latina | Power BI Dashboard</h1>
+
+<hr>
+
 <h2>📌 Resumen</h2>
 
 <p>
@@ -39,3 +47,7 @@ Se redactó un informe escrito dirigido a stakeholders y se adjunta el script de
   <li><strong>DAX (Data Analysis Expressions):</strong> lenguaje para cálculos y medidas dentro de Power BI.</li>
   <li><strong>Gráficos y tablas:</strong> uso de visualizaciones para representar los datos de forma clara y efectiva.</li>
 </ul>
+
+<hr>
+
+<p><strong>Autor:</strong> Lucas Alamanni</p>
